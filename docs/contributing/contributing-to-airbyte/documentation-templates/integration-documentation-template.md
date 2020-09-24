@@ -30,7 +30,7 @@ This section should contain a table with the following format:
 | :--- | :--- | :--- |
 | Full Refresh Sync |  |  |
 | Incremental Sync |  |  |
-| Replicate Incremental Deletes |  |  |
+| Replicate deletes |  |  |
 | For databases, WAL/Logical replication |  |  |
 | SSL connection |  |  |
 | SSH Tunnel Support |  |  |

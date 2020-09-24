@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Getting Started](../README.md)
-* [Tutorial](getting-started-tutorial.md)
 * [Changelog](changelog.md)
 
 ## Deployment
@@ -14,7 +13,6 @@
 ## Integrations
 
 * [Sources](integrations/sources/README.md)
-  * [exchangerates.io](integrations/sources/exchangerates-io.md)
   * [Postgres](integrations/sources/postgres.md)
   * [Stripe](integrations/sources/stripe.md)
 * [Destinations](integrations/destinations/README.md)
